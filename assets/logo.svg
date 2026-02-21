@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="140" viewBox="0 0 520 140">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#1f2a44"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="520" height="140" rx="26" fill="url(#g)"/>
+  <g fill="#ffffff">
+    <path d="M78 36c14 0 26 12 26 26s-12 26-26 26-26-12-26-26 12-26 26-26zm0 12c-7.7 0-14 6.3-14 14s6.3 14 14 14 14-6.3 14-14-6.3-14-14-14z" opacity="0.92"/>
+    <path d="M58 98h40a8 8 0 0 1 0 16H58a8 8 0 0 1 0-16z" opacity="0.9"/>
+    <path d="M130 46h10v48h-10zM152 46h10v48h-10z" opacity="0.75"/>
+    <path d="M174 46h10v48h-10z" opacity="0.75"/>
+    <path d="M196 46h10v48h-10z" opacity="0.75"/>
+  </g>
+  <text x="220" y="74" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#ffffff">Ingemec Solutions</text>
+  <text x="220" y="104" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#d6def0">Diagnóstico y servicio a domicilio | Panamá</text>
+</svg>
