@@ -1,0 +1,1 @@
+Sube todo este proyecto a GitHub. En Cloudflare Pages conecta el repo y deploy (Framework: None).
